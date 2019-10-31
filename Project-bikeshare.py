@@ -114,7 +114,6 @@ def station_stats(df):
     # TO DO: display most frequent combination of start station and end station trip
     most_common_start_end_station = df[['Start Station', 'End Station']].mode().loc[0]
     print("most frequent combination of start station and end station trip: {} to {}".format(most_common_start_end_station[0] , most_common_start_end_station[1]))
-    #print("most frequent combination of start station and end station trip:" + most_common_start_end_station[0] + " "+ "to" +" "+ most_common_start_end_station[1])
 
 
 
