@@ -9,4 +9,4 @@ Chicago.csv
 new_york_city.csv
 washington.csv
 ### Credits
-Udacity website ..
+Udacity website and my classmate ..
